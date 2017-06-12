@@ -4,7 +4,7 @@
 
 ### Orientador: Giuliano Bertoti
 
-Diagrama de Classe: 
+Diagrama de Classe: http://imgur.com/a/v9xPO
 
 Telas da aplicação:
 
