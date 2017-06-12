@@ -1,6 +1,6 @@
 # Mapas App (Entrega do Projeto)
 
-# Integrantes: André Victor e Jullyana Gripp
+### Integrantes: André Victor e Jullyana Gripp
 
 Orientador: Giuliano Bertoti
 
