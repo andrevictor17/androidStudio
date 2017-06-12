@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="145dp"
+                android:layout_weight="1"
+                android:autoText="false"
+                android:text='O botão CONSÓRCIO mostra todos os pontos de recarga de cartão do "consórcio"' />
+
+            <Button
+                android:id="@+id/Consórcio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="buttonCons"
+                android:text="CONSÓRCIO" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="145dp"
+                android:layout_weight="1"
+                android:autoText="false"
+                android:text="O botão POLICIA te mostra um mapa com todos os postos policias da cidade de sjc" />
+
+            <Button
+                android:id="@+id/Policia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="buttonPol"
+                android:text="Policia" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
