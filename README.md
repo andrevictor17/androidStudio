@@ -2,7 +2,7 @@
 
 ### Integrantes: André Victor e Jullyana Gripp
 
-Orientador: Giuliano Bertoti
+### Orientador: Giuliano Bertoti
 
 Diagrama de Classe: 
 
