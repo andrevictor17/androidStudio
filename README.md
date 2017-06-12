@@ -1,6 +1,5 @@
-# androidStudio
+# Mapas App (Entrega do Projeto)
 
-GasTracker App (Entrega do Projeto)
 Integrantes: André Victor e Jullyana Gripp
 Orientador: Giuliano Bertoti
 
